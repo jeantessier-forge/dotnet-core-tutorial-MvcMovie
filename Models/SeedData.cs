@@ -52,6 +52,7 @@ namespace MvcMovie.Models
                         Title = "Rio Bravo",
                         ReleaseDate = DateTime.Parse("1959-4-4"),
                         Genre = "Western",
+                        Rating = "n/a",
                         Price = 3.99M
                     }
                 );
